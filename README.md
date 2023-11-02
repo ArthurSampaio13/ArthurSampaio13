@@ -9,8 +9,7 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api?username=ArthurSampaio13&show_icons=true&theme=radical&bg_color=000000"/>
-  <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=ArthurSampaio13&layout=compact&show_icons=true&theme=radical&bg_color=000000"/>
-
+  
   <br>
 
  
