@@ -13,7 +13,7 @@
 
   <br>
 
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurSampaio13&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=000000&line_height=1"/>
+ 
   <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurSampaio13&theme=radical&bg_color=000000"/>
 
 </div>
