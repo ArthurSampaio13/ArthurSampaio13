@@ -27,7 +27,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fa7bb&size=20&vCenter=true&width=1000&lines=technologies;Tecnologias+aprendidas+ou+em+aprendizagem:)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,java,spring,maven,mysql,postgres,linux" />
+    <img src="https://skillicons.dev/icons?i=py,git,java,spring,mysql,postgres,linux" />
   
   </a>
 </p>  
