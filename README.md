@@ -25,7 +25,7 @@
 </div>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,java,spring,mysql,postgres,linux" />
+    <img src="https://skillicons.dev/icons?i=py,git,java,spring,mysql,postgres,linux, haskell, " />
   
   </a>
 </p>  
