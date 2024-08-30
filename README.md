@@ -23,7 +23,7 @@
 <div align="center">
  <h1>Tecnologias: </h1>
 </div>
-
+<p align = "center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,git,java,spring,mysql,postgres,linux, haskell, " />
   
