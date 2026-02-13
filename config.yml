@@ -42,9 +42,11 @@ galaxy_arms:
   - name: "Backend"
     color: "synapse_cyan"
     items:
-      - "Fastify"
+      - "TypeScript"
       - "Node.js"
+      - "Fastify"
       - "PostgreSQL"
+      - "Python"
 
   - name: "Cloud / Platform"
     color: "axon_amber"
@@ -60,13 +62,6 @@ galaxy_arms:
 #   repo: "owner/repo-name"   — GitHub repository path
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
-projects:
-  - repo: "galaxy-dev/nebula-ui"
-    arm: 0
-    description: "A component library with cosmic design tokens and dark-first theming."
-  - repo: "galaxy-dev/stargate-api"
-    arm: 1
-    description: "High-performance API gateway with built-in observability and caching."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
