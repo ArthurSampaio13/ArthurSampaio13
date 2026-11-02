@@ -26,7 +26,6 @@ Focused on developer experience, distributed systems and automation.
 
 > "Build systems that scale people, not only software."
 
-**Currently at** Valcann — Brazil
 </details>
 
 <br/>
