@@ -1,9 +1,3 @@
-<!-- Galaxy Profile README Template
-     Customize this file with your own info, then rename it to README.md
-     in your GitHub profile repo (github.com/YOUR_USERNAME/YOUR_USERNAME).
-     The SVG paths below point to assets/generated/ which are auto-generated
-     by the GitHub Actions workflow or by running: python -m generator.main -->
-
 <div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
@@ -22,19 +16,15 @@
 
 <br/>
 
-<div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
-</div>
-
-<br/>
-
 <details>
 <summary><strong>More about me</strong></summary>
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+Building scalable products with strong DevOps and cloud foundations.
+Focused on developer experience, distributed systems and automation.
+
+> "Build systems that scale people, not only software."
 
 **Currently at** Valcann — Brazil
 </details>
